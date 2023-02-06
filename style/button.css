@@ -1,0 +1,12 @@
+.btn {
+    border-radius: 30px !important;
+    padding: 0.5em 2em !important;
+}
+
+.white-btn {
+    background-color: #ffff !important;
+}
+
+.pink-btn {
+    background-color: var(--pink) !important;
+}
