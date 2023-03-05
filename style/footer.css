@@ -1,0 +1,44 @@
+
+.cta {
+    background-color: #fff !important;
+    z-index: 2;
+    position: relative;
+    top: 55px;
+    
+}
+
+.cta-section .pink-btn {
+    position: relative;
+    left: 25%;
+    padding:  1rem 3rem !important;
+}
+
+footer {
+    background-color: var(--dark-cyan);
+    padding: 5.5rem;
+    color: white;
+    font-size: small;
+}
+
+.footer-logo {
+    background-color: #fff;
+    display:inline;
+    width: min-content;
+}
+
+footer a {
+    font-size: 1rem;
+    text-decoration: none;
+    color: white !important;
+}
+
+footer img,
+footer i
+{
+    color: white !important;
+    font-size: 1.5rem;
+}
+
+.socials {
+    width: 20%;
+}
