@@ -2,18 +2,20 @@
 @import url(./hero.css);
 @import url(./reset.css);
 @import url(./main.css);
+@import url(./footer.css);
 
 :root {
     --pink: hsl(322, 100%, 66%);
     --pale-cyan: hsl(193, 100%, 96%);
     --dark-cyan:hsl(192, 100%, 9%);
     --gray-blue: hsl(208, 11%, 55%);
+    --white: #ffff;
 }
 
 * {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
-    border: 1px solid red !important;
+    /* border: 1px solid red !important; */
 }
 
 h1 {
@@ -21,9 +23,14 @@ h1 {
 }
 
 .attribution { 
+    position: fixed;
+    bottom: 1%;
+    right: 1%;
     font-size: 11px; 
-    text-align: center; 
+    text-align: center !important; 
+
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: #ffff; 
+    font-size: 11px; 
 }
