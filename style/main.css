@@ -1,4 +1,12 @@
-/* .main .row {
-    border-radius: 7px !important;
-    border: 1px solid var(--gray-blue) !important;
-} */
+
+main h2 {
+    font-weight: 700;
+}
+
+main p {
+    color: var(--gray-blue);
+}
+
+.main-img {
+    width: 80%;
+}
