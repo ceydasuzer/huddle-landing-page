@@ -8,5 +8,9 @@ main p {
 }
 
 .main-img {
-    width: 80%;
+    width: 75%;
+}
+
+.p-info {
+    width: 70%;
 }
