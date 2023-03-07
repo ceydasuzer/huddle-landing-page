@@ -7,6 +7,16 @@
     background-color: #ffff !important;
 }
 
+.white-btn:hover {
+    color: #B5A5B1 !important;
+    cursor: grab !important;
+}
+
 .pink-btn {
     background-color: var(--pink) !important;
+}
+
+.pink-btn:hover{
+    background-color: #F5A7E4 !important;
+    cursor: grab !important;
 }
